@@ -1,0 +1,14 @@
+a {
+  text-decoration: none;
+  color: black;
+  padding: 5px;
+}
+footer {
+  position: relative;
+  bottom: -450px;
+  /* width: 950px; */
+  /* height: 25px; */
+  background-color: white;
+  color: black;
+  text-align: center;
+}
